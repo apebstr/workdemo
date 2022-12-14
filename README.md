@@ -53,7 +53,7 @@
 
 ### 3. 표만들기
 
-- |(vertical val) : 테이블 표현
+- | (vertical val) : 테이블 표현
 - : 정렬
 - (---) 헤더와 셀 구분
 
@@ -61,3 +61,21 @@
 | -----: | :----: | :------------ |
 | 홍길동 | 서울시 | 02-1234-23456 |
 | 여진구 | 경기도 | 031-2532-6544 |
+
+### 코드(code)
+
+#### 1) 인라인 코드 Inline code
+
+- 해당 코드를 강조해줄 때 사용
+- 백틱(`)으로 강조할 내용을 감싼다.
+- repository에서 프로젝트의 설명을 부여해줄 때 `README.md`를 사용한다.
+
+#### 2) 블럭 코드 Block code
+
+- html, css, java 등 코드를 작성하고 백틱(`) 3개로 감싸준다.
+
+```java
+public static void main(String[] args) {
+    System.out.println("Hello Java");
+}
+```
