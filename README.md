@@ -104,4 +104,4 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver] (https://www.naver.com/)
+![naver] (https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fshared-comic.pstatic.net%2Fthumb%2Fwebtoon%2F570503%2Fthumbnail%2Fthumbnail_IMAG19_cbaaa393-baab-456a-b311-827953e4cf2e.jpg%22&type=navermain_n100_100)
