@@ -104,4 +104,4 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver](https://naverpa-phinf.pstatic.net/MjAyMjEyMDVfMjE2/MDAxNjcwMjE3NzE0MTc1.JQhr_FElSZmGhIp5jZEnZCPoUh00bzHQJigz1YHvpJQg.vvxXthq_hot4zSYAhqwPNfyAF-P_3SD9OkFtgN_L5UEg.PNG/342_228_120500_16702177141608260761885306197529.png)
+![naver](https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshopping.phinf%2Fmain_3582738%2F35827384632.20221130113049.jpg%22&type=nf340_228)
