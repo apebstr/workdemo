@@ -105,3 +105,4 @@ _이텔릭_
 ### 이미지(images)
 
 ![naver](https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshopping.phinf%2Fmain_3582738%2F35827384632.20221130113049.jpg%22&type=nf340_228)
+![food](images/food.jpeg)
